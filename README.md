@@ -4,12 +4,12 @@ If you are Meetup organizer like me then I am sure the most challenging task wou
 Happy Meetup!!
 
 ## Locations
-. [New Delhi]()
-. [Gurgaon]()
-. [Noida]()
-. [Mumbai]()
-. [Pune]()
-. [Bangalore()
+- [New Delhi](#round_pushpin-new-delhi)
+- [Noida](#round_pushpin-noida)
+- [Gurgaon](#round_pushpin-gurgaon)
+- [Mumbai](#round_pushpin-mumbai)
+- [Pune](#round_pushpin-pune)
+- [Bangalore](#round_pushpin-bangalore)
 
 ## :round_pushpin: New Delhi
 | Coworking Place | Location |  website |
