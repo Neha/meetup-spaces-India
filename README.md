@@ -11,6 +11,8 @@ Happy Meetup!!
 - [Pune](#round_pushpin-pune)
 - [Bangalore](#round_pushpin-bangalore)
 
+
+
 ## :round_pushpin: New Delhi
 | Coworking Place | Location |  website |
 | ------ | ------ | ------ |
@@ -23,11 +25,13 @@ Happy Meetup!!
 | Hauz khas Social | Hauz khas Village | https://socialoffline.in/workspace/ | 
 | A Little Anarky | Hauz khas Village |  https://alittleanarkyfilms.com/co-working |
 
+
 ## :round_pushpin: Noida
 | Coworking Place | Location |  website |
 | ------ | ------ | ------ |
 | 91 springboard | sector 1 | https://www.91springboard.com/ |
 | 91 springboard | sector 63 | https://www.91springboard.com/ |
+
 
 ## :round_pushpin: Gurgaon
 | Coworking Place | Location |  website |
@@ -42,29 +46,42 @@ Happy Meetup!!
 | Wework | DLF Phase 5 | https://www.wework.com/l/gurugram--HR |
 | The circle | Huda City Metro Station | https://www.thecircle.work/ |
 
+
 ## :round_pushpin: Mumbai
 | Coworking Place | Location |  website |
 | ------ | ------ | ------ |
-| 91 springboard | - |- |
-| Coworks | Udyog vihar | https://www.cowrks.com/delhi-ncr |
-| Wework | DLF Phase 5 | https://investopad.com/ |
+| 91 springboard | Lotus Star | https://www.91springboard.com/coworking-space/mumbai/ |
+| 91 springboard | Ackruti Trade Centre | https://www.91springboard.com/coworking-space/mumbai/ |
+| 91 springboard | BKC | https://www.91springboard.com/coworking-space/mumbai/ |
+| 91 springboard | 74 Techno Park | https://www.91springboard.com/coworking-space/mumbai/ |
+| Coworks | Powai | https://www.cowrks.com/locations/mumbai |
+| Coworks | Worli | https://www.cowrks.com/locations/mumbai |
 
 
 ## :round_pushpin: Pune
 | Coworking Place | Location |  website |
 | ------ | ------ | ------ |
-| 91 springboard | - | - |
-
+| 91 springboard | Yerawada | https://www.91springboard.com/ |
 
 
 ## :round_pushpin: Bangalore
 | Coworking Place | Location |  website |
 | ------ | ------ | ------ |
-| 91 springboard | - |- |
-| Wework | - |  https://www.wework.com/ |
-| Investopad |- | - |
-| coworks | - | https://www.cowrks.com/ | 
-| Awfis | - | - | 
+| 91 springboard | MG Road | https://www.91springboard.com/coworking-space/bangalore/ |
+| 91 springboard | JP Nagar | https://www.91springboard.com/coworking-space/bangalore/ |
+| 91 springboard | Koramangala 7th Block | https://www.91springboard.com/coworking-space/bangalore/ |
+| 91 springboard | Koramangala 8th Block| https://www.91springboard.com/coworking-space/bangalore/ |
+| Wework |  Bellandur |  https://www.wework.com/l/bengaluru--Karnataka |
+| Wework |  Hebbal |  https://www.wework.com/l/bengaluru--Karnataka |
+| Wework |  Chruch Street |  https://www.wework.com/l/bengaluru--Karnataka |
+| Wework |  Residency Road |  https://www.wework.com/l/bengaluru--Karnataka |
+| coworks | Whitefield | https://www.cowrks.com/bengaluru | 
+| coworks | Residency Road | https://www.cowrks.com/bengaluru | 
+| coworks | Kormangala | https://www.cowrks.com/bengaluru | 
+| coworks | Ecoworld | https://www.cowrks.com/bengaluru | 
+| coworks | New Indiranagar | https://www.cowrks.com/bengaluru | 
+| coworks | Yelahanka | https://www.cowrks.com/bengaluru | 
+
 
 # Want to add a new place?
 If you want to add new place or update any current information. Please raise the PR.
