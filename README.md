@@ -1,5 +1,5 @@
 # :sparkles: Meetup Spaces in India :sparkles:
-If you are an organizer of Meetups like me then I am sure before planning every meetup the first question comes on your mind is  - "But where we will host the meetup?". Getting the space is always a challenge. It becomes more challenging when you go to new city to do the Meetup. Here are the list of the co-working places who would be happy to host the Meetup.
+If you are Meetup organizer like me then I am sure the most challenging task would be getting space for Meetup. It becomes more challenging when you go to new city to do the Meetup. Here are the list of the co-working places who would be happy to host the Meetup at their venue.
 
 Happy Meetup!!
 
