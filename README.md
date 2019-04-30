@@ -6,25 +6,13 @@ Happy Meetup!!
 ## New Delhi
 | Coworking Place | Site |  contact email |
 | ------ | ------ | ------ |
-| 91 springboard, Okhala phase 2, New Delhi |  |
-| 91 springboard, Nehru Place |  |
-| Investopad |  |
-| Coworks |  |
-| One Internet | |
-| Stiring Minds |  |
-| Hauz khas Social |  |
-| A Little Anarky |  |  |
-
-## Gurgaon
-| Coworking Place | Site |  contact email |
-| ------ | ------ | ------ |
-| 91 springboard, Okhala phase 2, New Delhi |  |
-| 91 springboard, Nehru Place | |
-| Investopad |  |
-| Coworks | |
-| One Internet |  |
-| Stiring Minds |  |
-| Hauz khas Social |  |
+| 91 springboard, Okhla Phase II, New Delhi | https://www.91springboard.com/ |
+| 91 springboard, Nehru Place | https://www.91springboard.com/|
+| Investopad | SDA Market, Hauz Khas | https://investopad.com/ |
+| coworkdelhi | Mayur Vihar | http://coworkdelhi.com/ | 
+| One Internet | CP | http://www.oneinternet.in/ |
+| Stiring Minds | Asaf Ali Road, New Delhi | https://stirringminds.com/ |
+| Hauz khas Social | Hauz khas Village | https://socialoffline.in/workspace/ | 
 | A Little Anarky |  |  |
 
 ## Noida
