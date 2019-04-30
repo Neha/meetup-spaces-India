@@ -24,54 +24,47 @@ Happy Meetup!!
 | A Little Anarky | Hauz khas Village |  https://alittleanarkyfilms.com/co-working |
 
 ## :round_pushpin: Noida
-| Coworking Place | Site |  contact email |
+| Coworking Place | Location |  website |
 | ------ | ------ | ------ |
-| 91 springboard, Okhala phase 2, New Delhi |  |
-| 91 springboard, Nehru Place |  |
-| Investopad |  |
-| Coworks |  |
-| One Internet |  |
-| Stiring Minds |  |
-| Hauz khas Social |  |
-| A Little Anarky |  |  |
+| 91 springboard | sector 1 | https://www.91springboard.com/ |
+| 91 springboard | sector 63 | https://www.91springboard.com/ |
+
+## :round_pushpin: Gurgaon
+| Coworking Place | Location |  website |
+| ------ | ------ | ------ |
+| 91 springboard | Nehru Place | https://www.91springboard.com/|
+| Investopad | Sector 32 | https://investopad.com/ |
+| Coworks | Aerocity | https://www.cowrks.com/delhi-ncr |
+| Coworks | Cybercity | https://www.cowrks.com/delhi-ncr |
+| Coworks | Golf course road | https://www.cowrks.com/delhi-ncr |
+| Coworks | Udyog vihar | https://www.cowrks.com/delhi-ncr |
+| Wework | Mehrauli-Gurgaon Road | https://www.wework.com/l/gurugram--HR |
+| Wework | DLF Phase 5 | https://www.wework.com/l/gurugram--HR |
+| The circle | Huda City Metro Station | https://www.thecircle.work/ |
 
 ## :round_pushpin: Mumbai
-| Coworking Place | Site |  contact email |
+| Coworking Place | Location |  website |
 | ------ | ------ | ------ |
-| 91 springboard, Okhala phase 2, New Delhi |  |
-| 91 springboard, Nehru Place |  |
-| Investopad |  |
-| Coworks |  |
-| One Internet |  |
-| Stiring Minds |  |
-| Hauz khas Social |  |
-| A Little Anarky |  |  |
+| 91 springboard | - |- |
+| Coworks | Udyog vihar | https://www.cowrks.com/delhi-ncr |
+| Wework | DLF Phase 5 | https://investopad.com/ |
 
 
 ## :round_pushpin: Pune
-| Coworking Place | Site |  contact email |
+| Coworking Place | Location |  website |
 | ------ | ------ | ------ |
-| 91 springboard, Okhala phase 2, New Delhi |  |
-| 91 springboard, Nehru Place |  |
-| Investopad |  |
-| Coworks |  |
-| One Internet |  |
-| Stiring Minds |  |
-| Hauz khas Social |  |
-| A Little Anarky |  |  |
+| 91 springboard | - | - |
+
 
 
 ## :round_pushpin: Bangalore
-| Coworking Place | Site |  contact email |
+| Coworking Place | Location |  website |
 | ------ | ------ | ------ |
-| 91 springboard, Okhala phase 2, New Delhi |  |
-| 91 springboard, Nehru Place |  |
-| Investopad |  |
-| Coworks |  |
-| One Internet |  |
-| Stiring Minds |  |
-| Hauz khas Social |  |
-| A Little Anarky |  |  |
+| 91 springboard | - |- |
+| Wework | - |  https://www.wework.com/ |
+| Investopad |- | - |
+| coworks | - | https://www.cowrks.com/ | 
+| Awfis | - | - | 
 
 # Want to add a new place?
 If you want to add new place or update any current information. Please raise the PR.
