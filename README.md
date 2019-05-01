@@ -14,41 +14,41 @@ Happy Meetup!!
 
 
 ## :round_pushpin: New Delhi
-| Coworking Place | Location |  website | Available on Weekends | 
-| ------ | ------ | ------ | ------ |
-| 91 springboard | Okhla Phase II | [91 springboard](https://www.91springboard.com/) | :white_check_mark: | 
-| 91 springboard | Nehru Place | [91 springboard](https://www.91springboard.com/) | :white_check_mark: | 
-| Investopad | SDA Market, Hauz Khas | [Investopad](https://investopad.com/) | :white_check_mark: | 
-| cowork Delhi | Mayur Vihar | [cowork Delhi](http://coworkdelhi.com/) | No Information |
-| One Internet | CP | [One Internet](http://www.oneinternet.in/) | :white_check_mark: |  No Information |
-| Stiring Minds | Asaf Ali Road, New Delhi | [Stiring Minds](https://stirringminds.com/) | No Information |
-| Hauz khas Social | Hauz khas Village | [Hauz khas Social](https://socialoffline.in/workspace/) | No Information |
-| A Little Anarky | Hauz khas Village |  [A Little Anarky](https://alittleanarkyfilms.com/co-working) | No Information |
-| ABL Co-Working | Okhla | [ABL Co-Working](https://www.ablworkspaces.com/)  | No Information |
-| ABL Co-Working | Green park |  [ABL Co-Working](https://www.ablworkspaces.com/) | No Information |
-| ABL Co-Working | CP |  [ABL Co-Working](https://www.ablworkspaces.com/) | No Information |
-| Insta Office | Multi Location  | [Insta office](https://www.instaoffice.in/) | No Information |
+| Coworking Place | Location |  website | Available on Weekends | Capacity* | Email | 
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| 91 springboard | Okhla Phase II | [91springboard](https://www.91springboard.com/) | :white_check_mark: | 10-60+ | - |
+| 91 springboard | Nehru Place | [91springboard](https://www.91springboard.com/) | :white_check_mark: | 10-40+ | - |
+| Investopad | SDA Market, Hauz Khas | [Investopad](https://investopad.com/) | :white_check_mark: |  10-60+ | - |
+| cowork Delhi | Mayur Vihar | [cowork](http://coworkdelhi.com/) | No Information | - | - |
+| One Internet | CP | [OneInternet](http://www.oneinternet.in/) | :white_check_mark: |  No Information | 10-30 | - |
+| Stiring Minds | Asaf Ali Road | [StiringMinds](https://stirringminds.com/) | No Information | 10-70 | - |
+| Hauz khas Social | Hauz khas Village | [HauzkhasSocial](https://socialoffline.in/workspace/) | No Information | - | - |
+| A Little Anarky | Hauz khas Village |  [ALittleAnarky](https://alittleanarkyfilms.com/co-working) | No Information | - | - |
+| ABL Co-Working | Okhla | [ABLCo-Working](https://www.ablworkspaces.com/)  | No Information | - | - |
+| ABL Co-Working | Green park |  [ABLCo-Working](https://www.ablworkspaces.com/) | No Information | - | - |
+| ABL Co-Working | CP |  [ABLCo-Working](https://www.ablworkspaces.com/) | No Information | - |  - |
+| Insta Office | Multi Location  | [Instaoffice](https://www.instaoffice.in/) | No Information | - | - |
 
 
 ## :round_pushpin: Noida
-| Coworking Place | Location |  website | Available on Weekends | 
-| ------ | ------ | ------ | ------ |
-| 91 springboard | sector 1 | https://www.91springboard.com/ | :white_check_mark: | 
-| 91 springboard | sector 63 | https://www.91springboard.com/ | :white_check_mark: | 
+| Coworking Place | Location |  website | Available on Weekends |  Capacity* | 
+| ------ | ------ | ------ | ------ | ------ |
+| 91 springboard | sector 1 | [91springboard](https://www.91springboard.com/)| :white_check_mark: | 10-60+ |
+| 91 springboard | sector 63 | [91springboard](https://www.91springboard.com/) | :white_check_mark: | 10-70+ |
 
 
 ## :round_pushpin: Gurgaon
-| Coworking Place | Location |  website | Available on Weekends | 
-| ------ | ------ | ------ |  ------ |
-| 91 springboard | Nehru Place | https://www.91springboard.com/| :white_check_mark: | 
-| Investopad | Sector 32 | https://investopad.com/ | :white_check_mark: | 
-| Coworks | Aerocity | https://www.cowrks.com/delhi-ncr | No Information |
-| Coworks | Cybercity | https://www.cowrks.com/delhi-ncr | No Information |
-| Coworks | Golf course road | https://www.cowrks.com/delhi-ncr | No Information |
-| Coworks | Udyog vihar | https://www.cowrks.com/delhi-ncr | No Information |
-| Wework | Mehrauli-Gurgaon Road | https://www.wework.com/l/gurugram--HR | No Information |
-| Wework | DLF Phase 5 | https://www.wework.com/l/gurugram--HR | No Information |
-| The circle | Huda City Metro Station | https://www.thecircle.work/ | :white_check_mark: | 
+| Coworking Place | Location |  website | Available on Weekends |  Capacity* | 
+| ------ | ------ | ------ |  ------ | ------ |
+| 91 springboard | Sector 18 | [91springboard](https://www.91springboard.com/)| :white_check_mark: | 10-100+ |
+| Investopad | Sector 32 | https://investopad.com/ | :white_check_mark: | - |
+| Coworks | Aerocity | https://www.cowrks.com/delhi-ncr | No Information |  - |
+| Coworks | Cybercity | https://www.cowrks.com/delhi-ncr | No Information |  - |
+| Coworks | Golf course road | https://www.cowrks.com/delhi-ncr | No Information |  - |
+| Coworks | Udyog vihar | https://www.cowrks.com/delhi-ncr | No Information |  - |
+| Wework | Mehrauli-Gurgaon Road | https://www.wework.com/l/gurugram--HR | No Information |  - |
+| Wework | DLF Phase 5 | https://www.wework.com/l/gurugram--HR | No Information |  - |
+| The circle | Huda City Metro Station | https://www.thecircle.work/ | :white_check_mark: |   - |
 
 
 ## :round_pushpin: Mumbai
