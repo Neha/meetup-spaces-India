@@ -15,7 +15,7 @@ Happy Meetup!!
 
 ## :round_pushpin: New Delhi
 | Coworking Place | Location |  website | Available on Weekends | 
-| ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ |
 | 91 springboard | Okhla Phase II | https://www.91springboard.com/ | :white_check_mark: | 
 | 91 springboard | Nehru Place | https://www.91springboard.com/| :white_check_mark: | 
 | Investopad | SDA Market, Hauz Khas | https://investopad.com/ | :white_check_mark: | 
@@ -32,14 +32,14 @@ Happy Meetup!!
 
 ## :round_pushpin: Noida
 | Coworking Place | Location |  website |
-| ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ |
 | 91 springboard | sector 1 | https://www.91springboard.com/ | :white_check_mark: | 
 | 91 springboard | sector 63 | https://www.91springboard.com/ | :white_check_mark: | 
 
 
 ## :round_pushpin: Gurgaon
 | Coworking Place | Location |  website |
-| ------ | ------ | ------ |
+| ------ | ------ | ------ |  ------ |
 | 91 springboard | Nehru Place | https://www.91springboard.com/| :white_check_mark: | 
 | Investopad | Sector 32 | https://investopad.com/ | :white_check_mark: | 
 | Coworks | Aerocity | https://www.cowrks.com/delhi-ncr | No Information |
