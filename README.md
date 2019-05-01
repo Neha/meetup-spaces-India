@@ -31,14 +31,14 @@ Happy Meetup!!
 
 
 ## :round_pushpin: Noida
-| Coworking Place | Location |  website |
+| Coworking Place | Location |  website | Available on Weekends | 
 | ------ | ------ | ------ | ------ |
 | 91 springboard | sector 1 | https://www.91springboard.com/ | :white_check_mark: | 
 | 91 springboard | sector 63 | https://www.91springboard.com/ | :white_check_mark: | 
 
 
 ## :round_pushpin: Gurgaon
-| Coworking Place | Location |  website |
+| Coworking Place | Location |  website | Available on Weekends | 
 | ------ | ------ | ------ |  ------ |
 | 91 springboard | Nehru Place | https://www.91springboard.com/| :white_check_mark: | 
 | Investopad | Sector 32 | https://investopad.com/ | :white_check_mark: | 
