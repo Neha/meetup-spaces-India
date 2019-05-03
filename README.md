@@ -66,6 +66,17 @@ Happy Meetup!!
 | Coworking Place | Location |  website |
 | ------ | ------ | ------ |
 | 91 springboard | Yerawada | https://www.91springboard.com/ |
+| Awfis           | Baner           | https://www.awfis.com/office-space/pune/baner/                      |
+| Awfis           | Baner Pashan    | https://www.awfis.com/office-space/pune/baner---pashan/             |
+| Awfis           | Hinjewadi       | https://www.awfis.com/office-space/pune/hinjawadi/                  |
+| Awfis           | Viman Nagar     | https://www.awfis.com/office-space/pune/viman-nagar/                |
+| Awfis           | Camp            | https://www.awfis.com/office-space/pune/camp/                       |
+| Awfis           | Pimple Saudagar | https://www.awfis.com/office-space/pune/pimple-saudagar/            |
+| Awfis           | Wakdewadi       | https://www.awfis.com/office-space/pune/wakdewadi/                  |
+| Smartworks      | Baner           | https://smartworksoffice.com/location/pune/pride-gateway/           |
+| Smartworks      | Baner           | https://smartworksoffice.com/location/pune/amar-sadanand-tech-park/ |
+| Smartworks      | Yerwada         | https://smartworksoffice.com/location/pune/nyati-unitree/           |
+| Smartworks      | Magarpatta City | https://smartworksoffice.com/location/pune/summer-court/            |
 
 
 ## :round_pushpin: Bangalore
