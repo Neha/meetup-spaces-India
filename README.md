@@ -28,7 +28,7 @@ Happy Meetup!!
 | ABL Co-Working | Green park |  [ABLCo-Working](https://www.ablworkspaces.com/) | No Information | - | - |
 | ABL Co-Working | CP |  [ABLCo-Working](https://www.ablworkspaces.com/) | No Information | - |  - |
 | Insta Office | Multi Location  | [Instaoffice](https://www.instaoffice.in/) | No Information | - | - |
-
+| Work Hubz | Safdarjung Enclave | [Workhubz](https://workhubz.in/) | - | - |
 
 ## :round_pushpin: Noida
 | Coworking Place | Location |  website | Available on Weekends |  Capacity* | 
