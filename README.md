@@ -18,6 +18,7 @@ Happy Meetup!!
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | 91 springboard | Okhla Phase II | [91springboard](https://www.91springboard.com/) | :white_check_mark: | 10-60+ | - |
 | 91 springboard | Nehru Place | [91springboard](https://www.91springboard.com/) | :white_check_mark: | 10-40+ | - |
+| 91 springboard | Jhandewalan | [91springboard](https://www.91springboard.com/) | No Information | 10-40+ | - |
 | Investopad | SDA Market, Hauz Khas | [Investopad](https://investopad.com/) | :white_check_mark: |  10-60+ | - |
 | cowork Delhi | Mayur Vihar | [cowork](http://coworkdelhi.com/) | No Information | - | - |
 | One Internet | CP | [OneInternet](http://www.oneinternet.in/) | :white_check_mark: |  No Information | 10-30 | - |
@@ -35,6 +36,7 @@ Happy Meetup!!
 | ------ | ------ | ------ | ------ | ------ |
 | 91 springboard | sector 1 | [91springboard](https://www.91springboard.com/)| :white_check_mark: | 10-60+ |
 | 91 springboard | sector 63 | [91springboard](https://www.91springboard.com/) | :white_check_mark: | 10-70+ |
+| Hacker Space Co-working | sector 2 | [Hacker Space](http://hackerspace.work/) | No Information | 10-50+ |
 
 
 ## :round_pushpin: Gurgaon
@@ -46,9 +48,10 @@ Happy Meetup!!
 | Coworks | Cybercity | https://www.cowrks.com/delhi-ncr | No Information |  - |
 | Coworks | Golf course road | https://www.cowrks.com/delhi-ncr | No Information |  - |
 | Coworks | Udyog vihar | https://www.cowrks.com/delhi-ncr | No Information |  - |
-| Wework | Mehrauli-Gurgaon Road | https://www.wework.com/l/gurugram--HR | No Information |  - |
-| Wework | DLF Phase 5 | https://www.wework.com/l/gurugram--HR | No Information |  - |
-| The circle | Huda City Metro Station | https://www.thecircle.work/ | :white_check_mark: |   - |
+| WeWork | Mehrauli-Gurgaon Road | https://www.wework.com/l/gurugram--HR | No Information |  - |
+| WeWork | DLF Phase 5 | https://www.wework.com/l/gurugram--HR | No Information |  - |
+| WeWork | BlueOne Square | https://www.wework.com/l/gurugram--HR | No Information |  - |
+| The Circle | Huda City Centre Metro Station | https://www.thecircle.work/ | :white_check_mark: |   - |
 
 
 ## :round_pushpin: Mumbai
@@ -86,10 +89,10 @@ Happy Meetup!!
 | 91 springboard | JP Nagar | https://www.91springboard.com/coworking-space/bangalore/ |
 | 91 springboard | Koramangala 7th Block | https://www.91springboard.com/coworking-space/bangalore/ |
 | 91 springboard | Koramangala 8th Block| https://www.91springboard.com/coworking-space/bangalore/ |
-| Wework |  Bellandur |  https://www.wework.com/l/bengaluru--Karnataka |
-| Wework |  Hebbal |  https://www.wework.com/l/bengaluru--Karnataka |
-| Wework |  Chruch Street |  https://www.wework.com/l/bengaluru--Karnataka |
-| Wework |  Residency Road |  https://www.wework.com/l/bengaluru--Karnataka |
+| WeWork |  Bellandur |  https://www.wework.com/l/bengaluru--Karnataka |
+| WeWork |  Hebbal |  https://www.wework.com/l/bengaluru--Karnataka |
+| WeWork |  Chruch Street |  https://www.wework.com/l/bengaluru--Karnataka |
+| WeWork |  Residency Road |  https://www.wework.com/l/bengaluru--Karnataka |
 | coworks | Whitefield | https://www.cowrks.com/bengaluru | 
 | coworks | Residency Road | https://www.cowrks.com/bengaluru | 
 | coworks | Kormangala | https://www.cowrks.com/bengaluru | 
