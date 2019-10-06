@@ -44,10 +44,10 @@ Happy Meetup!!
 | ------ | ------ | ------ |  ------ | ------ |
 | 91 springboard | Sector 18 | [91springboard](https://www.91springboard.com/)| :white_check_mark: | 10-100+ |
 | Investopad | Sector 32 | https://investopad.com/ | :white_check_mark: | - |
-| Coworks | Aerocity | https://www.cowrks.com/delhi-ncr | No Information |  - |
-| Coworks | Cybercity | https://www.cowrks.com/delhi-ncr | No Information |  - |
-| Coworks | Golf course road | https://www.cowrks.com/delhi-ncr | No Information |  - |
-| Coworks | Udyog vihar | https://www.cowrks.com/delhi-ncr | No Information |  - |
+| Cowrks | Aerocity | https://www.cowrks.com/delhi-ncr | No Information |  - |
+| Cowrks | Cybercity | https://www.cowrks.com/delhi-ncr | No Information |  - |
+| Cowrks | Golf course road | https://www.cowrks.com/delhi-ncr | No Information |  - |
+| Cowrks | Udyog vihar | https://www.cowrks.com/delhi-ncr | No Information |  - |
 | WeWork | Mehrauli-Gurgaon Road | https://www.wework.com/l/gurugram--HR | No Information |  - |
 | WeWork | DLF Phase 5 | https://www.wework.com/l/gurugram--HR | No Information |  - |
 | WeWork | BlueOne Square | https://www.wework.com/l/gurugram--HR | No Information |  - |
@@ -61,8 +61,8 @@ Happy Meetup!!
 | 91 springboard | Ackruti Trade Centre | https://www.91springboard.com/coworking-space/mumbai/ |
 | 91 springboard | BKC | https://www.91springboard.com/coworking-space/mumbai/ |
 | 91 springboard | 74 Techno Park | https://www.91springboard.com/coworking-space/mumbai/ |
-| Coworks | Powai | https://www.cowrks.com/locations/mumbai |
-| Coworks | Worli | https://www.cowrks.com/locations/mumbai |
+| Cowrks | Powai | https://www.cowrks.com/locations/mumbai |
+| Cowrks | Worli | https://www.cowrks.com/locations/mumbai |
 
 
 ## :round_pushpin: Pune
@@ -93,12 +93,12 @@ Happy Meetup!!
 | WeWork |  Hebbal |  https://www.wework.com/l/bengaluru--Karnataka |
 | WeWork |  Chruch Street |  https://www.wework.com/l/bengaluru--Karnataka |
 | WeWork |  Residency Road |  https://www.wework.com/l/bengaluru--Karnataka |
-| coworks | Whitefield | https://www.cowrks.com/bengaluru | 
-| coworks | Residency Road | https://www.cowrks.com/bengaluru | 
-| coworks | Kormangala | https://www.cowrks.com/bengaluru | 
-| coworks | Ecoworld | https://www.cowrks.com/bengaluru | 
-| coworks | New Indiranagar | https://www.cowrks.com/bengaluru | 
-| coworks | Yelahanka | https://www.cowrks.com/bengaluru | 
+| Cowrks | Whitefield | https://www.cowrks.com/bengaluru | 
+| Cowrks | Residency Road | https://www.cowrks.com/bengaluru | 
+| Cowrks | Kormangala | https://www.cowrks.com/bengaluru | 
+| Cowrks | Ecoworld | https://www.cowrks.com/bengaluru | 
+| Cowrks | New Indiranagar | https://www.cowrks.com/bengaluru | 
+| Cowrks | Yelahanka Galleria | https://www.cowrks.com/bengaluru | 
 
 
 # Want to add a new place?
