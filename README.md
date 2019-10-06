@@ -93,12 +93,12 @@ Happy Meetup!!
 | WeWork |  Hebbal |  https://www.wework.com/l/bengaluru--Karnataka |
 | WeWork |  Chruch Street |  https://www.wework.com/l/bengaluru--Karnataka |
 | WeWork |  Residency Road |  https://www.wework.com/l/bengaluru--Karnataka |
-| Cowrks | Whitefield | https://www.cowrks.com/bengaluru | 
-| Cowrks | Residency Road | https://www.cowrks.com/bengaluru | 
-| Cowrks | Kormangala | https://www.cowrks.com/bengaluru | 
-| Cowrks | Ecoworld | https://www.cowrks.com/bengaluru | 
-| Cowrks | New Indiranagar | https://www.cowrks.com/bengaluru | 
-| Cowrks | Yelahanka Galleria | https://www.cowrks.com/bengaluru | 
+| Cowrks | Whitefield | https://www.cowrks.com/coworking-space-bengaluru | 
+| Cowrks | Residency Road | https://www.cowrks.com/coworking-space-bengaluru | 
+| Cowrks | Kormangala | https://www.cowrks.com/coworking-space-bengaluru | 
+| Cowrks | Ecoworld | https://www.cowrks.com/coworking-space-bengaluru | 
+| Cowrks | New Indiranagar | https://www.cowrks.com/coworking-space-bengaluru | 
+| Cowrks | Yelahanka Galleria | https://www.cowrks.com/coworking-space-bengaluru | 
 
 
 # Want to add a new place?
