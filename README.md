@@ -21,7 +21,7 @@ Happy Meetup!!
 | 91 springboard | Jhandewalan | [91springboard](https://www.91springboard.com/) | No Information | 10-40+ | - |
 | Investopad | SDA Market, Hauz Khas | [Investopad](https://investopad.com/) | :white_check_mark: |  10-60+ | - |
 | cowork Delhi | Mayur Vihar | [cowork](http://coworkdelhi.com/) | No Information | - | - |
-| One Internet | CP | [OneInternet](http://www.oneinternet.in/) | :white_check_mark: |  No Information | 10-30 | - |
+| One Internet | CP | [OneInternet](http://www.oneinternet.in/) | :white_check_mark: |  10-30 | - |
 | Stiring Minds | Asaf Ali Road | [StiringMinds](https://stirringminds.com/) | No Information | 10-70 | - |
 | Hauz khas Social | Hauz khas Village | [HauzkhasSocial](https://socialoffline.in/workspace/) | No Information | - | - |
 | A Little Anarky | Hauz khas Village |  [ALittleAnarky](https://alittleanarkyfilms.com/co-working) | No Information | - | - |
