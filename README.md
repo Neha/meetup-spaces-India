@@ -21,7 +21,7 @@ Happy Meetup!!
 | 91 springboard | Jhandewalan | [91springboard](https://www.91springboard.com/) | No Information | 10-40+ | - |
 | Investopad | SDA Market, Hauz Khas | [Investopad](https://investopad.com/) | :white_check_mark: |  10-60+ | - |
 | cowork Delhi | Mayur Vihar | [cowork](http://coworkdelhi.com/) | No Information | - | - |
-| One Internet | CP | [OneInternet](http://www.oneinternet.in/) | :white_check_mark: |  10-30 | - |
+| One Internet | CP | [OneInternet](http://www.oneinternet.in/) | :white_check_mark: |  No Information | 10-30 | - |
 | Stiring Minds | Asaf Ali Road | [StiringMinds](https://stirringminds.com/) | No Information | 10-70 | - |
 | Hauz khas Social | Hauz khas Village | [HauzkhasSocial](https://socialoffline.in/workspace/) | No Information | - | - |
 | A Little Anarky | Hauz khas Village |  [ALittleAnarky](https://alittleanarkyfilms.com/co-working) | No Information | - | - |
@@ -35,6 +35,7 @@ Happy Meetup!!
 | Coworking Place | Location |  website | Available on Weekends |  Capacity* | 
 | ------ | ------ | ------ | ------ | ------ |
 | 91 springboard | sector 1 | [91springboard](https://www.91springboard.com/)| :white_check_mark: | 10-60+ |
+| 91 springboard | sector 2 | [91springboard](https://www.91springboard.com/) | :white_check_mark: | 10-70+ |
 | 91 springboard | sector 63 | [91springboard](https://www.91springboard.com/) | :white_check_mark: | 10-70+ |
 | Hacker Space Co-working | sector 2 | [Hacker Space](http://hackerspace.work/) | No Information | 10-50+ |
 
@@ -43,62 +44,64 @@ Happy Meetup!!
 | Coworking Place | Location |  website | Available on Weekends |  Capacity* | 
 | ------ | ------ | ------ |  ------ | ------ |
 | 91 springboard | Sector 18 | [91springboard](https://www.91springboard.com/)| :white_check_mark: | 10-100+ |
-| Investopad | Sector 32 | https://investopad.com/ | :white_check_mark: | - |
-| Cowrks | Aerocity | https://www.cowrks.com/delhi-ncr | No Information |  - |
-| Cowrks | Cybercity | https://www.cowrks.com/delhi-ncr | No Information |  - |
-| Cowrks | Golf course road | https://www.cowrks.com/delhi-ncr | No Information |  - |
-| Cowrks | Udyog vihar | https://www.cowrks.com/delhi-ncr | No Information |  - |
-| WeWork | Mehrauli-Gurgaon Road | https://www.wework.com/l/gurugram--HR | No Information |  - |
-| WeWork | DLF Phase 5 | https://www.wework.com/l/gurugram--HR | No Information |  - |
-| WeWork | BlueOne Square | https://www.wework.com/l/gurugram--HR | No Information |  - |
-| The Circle | Huda City Centre Metro Station | https://www.thecircle.work/ | :white_check_mark: |   - |
+| 91 springboard | Sector 44 | [91springboard](https://www.91springboard.com/)| :white_check_mark: | 10-70+ |
+| 91 springboard | NH8 UDYOG VIHAR | [91springboard](https://www.91springboard.com/)| :white_check_mark: | 10-100+ |
+| Investopad | Sector 32 | [Investopad](https://investopad.com/) | :white_check_mark: | - |
+| Cowrks | Aerocity | [cowrks](https://www.cowrks.com/delhi-ncr) | No Information |  - |
+| Cowrks | Cybercity | [cowrks](https://www.cowrks.com/delhi-ncr) | No Information |  - |
+| Cowrks | Golf course road | [cowrks](https://www.cowrks.com/delhi-ncr) | No Information |  - |
+| Cowrks | Udyog vihar | [cowrks](https://www.cowrks.com/delhi-ncr) | No Information |  - |
+| WeWork | Mehrauli-Gurgaon Road | [wework](https://www.wework.com/l/gurugram--HR) | No Information |  - |
+| WeWork | DLF Phase 5 | [wework](https://www.wework.com/l/gurugram--HR) | No Information |  - |
+| WeWork | BlueOne Square | [wework](https://www.wework.com/l/gurugram--HR) | No Information |  - |
+| The Circle | Huda City Centre Metro Station | [Thecircle](https://www.thecircle.work) | No Information | :white_check_mark: |   - |
 
 
 ## :round_pushpin: Mumbai
-| Coworking Place | Location |  website |
-| ------ | ------ | ------ |
-| 91 springboard | Lotus Star | https://www.91springboard.com/coworking-space/mumbai/ |
-| 91 springboard | Ackruti Trade Centre | https://www.91springboard.com/coworking-space/mumbai/ |
-| 91 springboard | BKC | https://www.91springboard.com/coworking-space/mumbai/ |
-| 91 springboard | 74 Techno Park | https://www.91springboard.com/coworking-space/mumbai/ |
-| Cowrks | Powai | https://www.cowrks.com/locations/mumbai |
-| Cowrks | Worli | https://www.cowrks.com/locations/mumbai |
+| Coworking Place | Location |  website | Available on Weekends |  Capacity* |
+| ------ | ------ | ------ |  ------ | ------ |
+| 91 springboard | Lotus Star | [91springboard](https://www.91springboard.com/coworking-space/mumbai/) | No Information |  - |
+| 91 springboard | Ackruti Trade Centre | [91springboard](https://www.91springboard.com/coworking-space/mumbai) | No Information |  - |
+| 91 springboard | BKC | [91springboard](https://www.91springboard.com/coworking-space/mumbai) | No Information |  - |
+| 91 springboard | 74 Techno Park | [91springboard](https://www.91springboard.com/coworking-space/mumbai/) | No Information |  - |
+| Cowrks | Powai | [cowrks](https://www.cowrks.com/locations/mumbai) | No Information |  - |
+| Cowrks | Worli | [cowrks](https://www.cowrks.com/locations/mumbai) | No Information |  - |
 
 
 ## :round_pushpin: Pune
-| Coworking Place | Location |  website |
-| ------ | ------ | ------ |
-| 91 springboard | Yerawada | https://www.91springboard.com/ |
-| Awfis           | Baner           | https://www.awfis.com/office-space/pune/baner/                      |
-| Awfis           | Baner Pashan    | https://www.awfis.com/office-space/pune/baner---pashan/             |
-| Awfis           | Hinjewadi       | https://www.awfis.com/office-space/pune/hinjawadi/                  |
-| Awfis           | Viman Nagar     | https://www.awfis.com/office-space/pune/viman-nagar/                |
-| Awfis           | Camp            | https://www.awfis.com/office-space/pune/camp/                       |
-| Awfis           | Pimple Saudagar | https://www.awfis.com/office-space/pune/pimple-saudagar/            |
-| Awfis           | Wakdewadi       | https://www.awfis.com/office-space/pune/wakdewadi/                  |
-| Smartworks      | Baner           | https://smartworksoffice.com/location/pune/pride-gateway/           |
-| Smartworks      | Baner           | https://smartworksoffice.com/location/pune/amar-sadanand-tech-park/ |
-| Smartworks      | Yerwada         | https://smartworksoffice.com/location/pune/nyati-unitree/           |
-| Smartworks      | Magarpatta City | https://smartworksoffice.com/location/pune/summer-court/            |
+| Coworking Place | Location |  website | Available on Weekends |  Capacity* |
+| ------ | ------ | ------ |  ------ | ------ |
+| 91 springboard | Yerawada | [91springboard](https://www.91springboard.com/) | No Information |  - |
+| Awfis           | Baner           | [Awfis](https://www.awfis.com/office-space/pune/baner/)| No Information |  - |
+| Awfis           | Baner Pashan    | [Awfis](https://www.awfis.com/office-space/pune/baner---pashan/) | No Information |  - |
+| Awfis           | Hinjewadi       | [Awfis](https://www.awfis.com/office-space/pune/hinjawadi/)| No Information |  - |
+| Awfis           | Viman Nagar     | [Awfis](https://www.awfis.com/office-space/pune/viman-nagar)| No Information |  - |
+| Awfis           | Camp            | [Awfis](https://www.awfis.com/office-space/pune/camp)| No Information |  - |
+| Awfis           | Pimple Saudagar | [Awfis](https://www.awfis.com/office-space/pune/pimple-saudagar/)| No Information |  - |
+| Awfis           | Wakdewadi       | [Awfis](https://www.awfis.com/office-space/pune/wakdewadi/)| No Information |  - |
+| Smartworks      | Baner           | [Smartworks](https://smartworksoffice.com/location/pune/pride-gateway/)| No Information |  - |
+| Smartworks      | Baner           | [Smartworks](https://smartworksoffice.com/location/pune/amar-sadanand-tech-park/)| No Information |  - |
+| Smartworks      | Yerwada         | [Smartworks](https://smartworksoffice.com/location/pune/nyati-unitree/)| No Information |  - |
+| Smartworks      | Magarpatta City | [Smartworks](https://smartworksoffice.com/location/pune/summer-court/)| No Information |  - |
 
 
 ## :round_pushpin: Bangalore
-| Coworking Place | Location |  website |
-| ------ | ------ | ------ |
-| 91 springboard | MG Road | https://www.91springboard.com/coworking-space/bangalore/ |
-| 91 springboard | JP Nagar | https://www.91springboard.com/coworking-space/bangalore/ |
-| 91 springboard | Koramangala 7th Block | https://www.91springboard.com/coworking-space/bangalore/ |
-| 91 springboard | Koramangala 8th Block| https://www.91springboard.com/coworking-space/bangalore/ |
-| WeWork |  Bellandur |  https://www.wework.com/l/bengaluru--Karnataka |
-| WeWork |  Hebbal |  https://www.wework.com/l/bengaluru--Karnataka |
-| WeWork |  Chruch Street |  https://www.wework.com/l/bengaluru--Karnataka |
-| WeWork |  Residency Road |  https://www.wework.com/l/bengaluru--Karnataka |
-| Cowrks | Whitefield | https://www.cowrks.com/coworking-space-bengaluru | 
-| Cowrks | Residency Road | https://www.cowrks.com/coworking-space-bengaluru | 
-| Cowrks | Kormangala | https://www.cowrks.com/coworking-space-bengaluru | 
-| Cowrks | Ecoworld | https://www.cowrks.com/coworking-space-bengaluru | 
-| Cowrks | New Indiranagar | https://www.cowrks.com/coworking-space-bengaluru | 
-| Cowrks | Yelahanka Galleria | https://www.cowrks.com/coworking-space-bengaluru | 
+| Coworking Place | Location |  website | Available on Weekends |  Capacity* |
+| ------ | ------ | ------ |  ------ | ------ |
+| 91 springboard | MG Road | [91springboard](https://www.91springboard.com/coworking-space/bangalore/) | No Information |  - |
+| 91 springboard | JP Nagar | [91springboard](https://www.91springboard.com/coworking-space/bangalore/) | No Information |  - |
+| 91 springboard | Koramangala 7th Block | [91springboard](https://www.91springboard.com/coworking-space/bangalore/) | No Information |  - |
+| 91 springboard | Koramangala 8th Block| [91springboard](https://www.91springboard.com/coworking-space/bangalore/) | No Information |  - |
+| WeWork |  Bellandur |  [wework](https://www.wework.com/l/bengaluru--Karnataka) | No Information |  - |
+| WeWork |  Hebbal |  [wework](https://www.wework.com/l/bengaluru--Karnataka) | No Information |  - |
+| WeWork |  Chruch Street |  [wework](https://www.wework.com/l/bengaluru--Karnataka) | No Information |  - |
+| WeWork |  Residency Road |  [wework](https://www.wework.com/l/bengaluru--Karnataka) | No Information |  - |
+| Cowrks | Whitefield | [cowrks](https://www.cowrks.com/coworking-space-bengaluru) | No Information |  - |
+| Cowrks | Residency Road | [cowrks](https://www.cowrks.com/coworking-space-bengaluru) | No Information |  - |
+| Cowrks | Kormangala | [cowrks](https://www.cowrks.com/coworking-space-bengaluru) | No Information |  - |
+| Cowrks | Ecoworld | [cowrks](https://www.cowrks.com/coworking-space-bengaluru) | No Information |  - |
+| Cowrks | New Indiranagar | [cowrks](https://www.cowrks.com/coworking-space-bengaluru) | No Information |  - |
+| Cowrks | Yelahanka Galleria | [cowrks](https://www.cowrks.com/coworking-space-bengaluru) | No Information |  - |
 
 
 # Want to add a new place?
