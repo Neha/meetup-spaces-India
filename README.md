@@ -10,7 +10,7 @@ Happy Meetup!!
 - [Mumbai](#round_pushpin-mumbai)
 - [Pune](#round_pushpin-pune)
 - [Bangalore](#round_pushpin-bangalore)
-
+- [Jaipur](#round_pushpin-jaipur)
 
 
 ## :round_pushpin: New Delhi
@@ -103,6 +103,10 @@ Happy Meetup!!
 | Cowrks | New Indiranagar | [cowrks](https://www.cowrks.com/coworking-space-bengaluru) | No Information |  - |
 | Cowrks | Yelahanka Galleria | [cowrks](https://www.cowrks.com/coworking-space-bengaluru) | No Information |  - |
 
+
+## :round_pushpin: Jaipur
+| Coworking Place | Location |  website | Available on Weekends |  Capacity* |
+| ------ | ------ | ------ |  ------ | ------ |
 
 # Want to add a new place?
 If you want to add new place or update any current information. Please raise the PR.
